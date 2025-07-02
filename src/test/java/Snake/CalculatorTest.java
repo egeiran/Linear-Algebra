@@ -1,7 +1,9 @@
-package exampleproject;
+package Snake;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import exampleproject.Calculator;
 
 public class CalculatorTest {
     @Test
